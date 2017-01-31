@@ -1,2 +1,4 @@
 /arduino-serial-lib.o
 /server.o
+/.DS_Store
+/arduino-serial-server
